@@ -27,4 +27,4 @@ npm install -g nodemon
 |www|網站輸出|
 |bower_components|js函示庫|
 |node_modules|node modules|
-|ejs|view tempate|
+|view|ejs tempate|
